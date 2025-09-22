@@ -1,10 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/guimiiller/guimiiller/assets/87100788/c0183d37-e3f8-44a5-afe3-e2bcbc360553" />
-&nbsp;&nbsp;&nbsp;
-
-
-<p align="center">Hello!! I am 22 years old and passionate about technology and development. For about 3 years, I have been working in Front-End, always striving to create modern, responsive interfaces with an excellent user experience. I work with HTML, CSS, JavaScript, React, Next.js, and TypeScript, and I also have knowledge of Node.js for back-end development and MongoDB.
-
-I have experience with Tailwind CSS, React Native, and consuming REST APIs. Additionally, I apply UI/UX and design concepts using Figma, combining technology and design to deliver high-quality projects.</p>&nbsp;
+<p align="center">Hello!! I am 22 years old and passionate about technology and development. For about 3 years, I have been working in Front-End, always striving to create modern, responsive interfaces with an excellent user experience. I work with HTML, CSS, JavaScript, React, Next.js, and TypeScript, and I also have knowledge of Node.js for back-end development and MongoDB.I have experience with Tailwind CSS, React Native, and consuming REST APIs. Additionally, I apply UI/UX and design concepts using Figma, combining technology and design to deliver high-quality projects.</p>&nbsp;
 
  &nbsp;
 
